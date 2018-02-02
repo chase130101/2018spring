@@ -33,3 +33,18 @@ Lab1: **Frequentism**
 
 [Material](lectures/lab1.html)
 
+---
+
+### Week 2
+
+Lecture 3: **Law of Large Numbers, CLT, and Monte Carlo**
+
+[Slides, Notes and Readings](lectures/lecture3.html)
+
+Lecture 4: **Sampling**
+
+[Slides, Notes and Readings](lectures/lecture4.html)
+
+Lab2: **Python, Math, and Stratification**
+
+[Material](lectures/lab2.html)
