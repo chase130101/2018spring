@@ -114,3 +114,13 @@ Lecture 12: **Bayes**
 Lab 6: **Sampling and Pymc3**
 
 [Material](lectures/lab6.html)
+
+---
+
+Lecture 13: **More Bayes**
+
+[Slides, Notes and Readings](lectures/lecture13.html)
+
+Lecture 14: **Convergence and Gibbs**
+
+[Slides, Notes and Readings](lectures/lecture14.html)
