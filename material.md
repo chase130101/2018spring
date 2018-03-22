@@ -128,3 +128,13 @@ Lecture 14: **Convergence and Gibbs**
 Lab7: **Sampling and Hierarchicals**
 
 [Material](lectures/lab7.html)
+
+---
+
+Lecture 15: **Linear Regression**
+
+[Slides, Notes and Readings](lectures/lecture15.html)
+
+Lecture 16: **Gaussian Processes**
+
+[Slides, Notes and Readings](lectures/lecture16.html)
