@@ -313,4 +313,14 @@ Lecture 18: **HMC, Normal Normal Hierarchical**
 Lab9: **Normal-Normal Hierarchicals**
 
 [Material](lectures/lab9.html)
+<<<<<<< HEAD
+>>>>>>> am207orig/master
+||||||| merged common ancestors
+=======
+
+---
+
+Lecture 19: **Posterior Predictive Checks and GLMs**
+
+[Slides, Notes and Readings](lectures/lecture19.html)
 >>>>>>> am207orig/master
